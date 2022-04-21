@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "644150310780",
+    "project_id": "divvyup-f6c87",
+    "storage_bucket": "divvyup-f6c87.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:644150310780:android:270a0f06a4b876365b96f9",
+        "android_client_info": {
+          "package_name": "com.example.divvyup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "644150310780-cbk7ap06jjktvjt6c09da2fqbkff7jgl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA22SQJ8DFYAE-Pfj3WrMGQWyf0BLOc_Ik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "644150310780-cbk7ap06jjktvjt6c09da2fqbkff7jgl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
